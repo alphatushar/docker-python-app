@@ -1,3 +1,4 @@
+![Docker CI](https://github.com/alphatushar/docker-python-app/actions/workflows/docker-ci.yml/badge.svg)
 # Dockerized Python App (Flask)
 
 A simple Python + Flask web application running inside Docker.  
