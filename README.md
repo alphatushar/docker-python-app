@@ -27,11 +27,13 @@ git clone git@github.com:alphatushar/docker-python-app.git
 ```bash 
 docker build -t docker-python-app .
 ```
+---
 
 ### Run the Docker Container
 ```bash 
 docker run -p 8080:8080 docker-python-app
 ```
 
+---
 ### Author
 Tushar Sharma
