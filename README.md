@@ -34,6 +34,11 @@ docker build -t docker-python-app .
 ```bash 
 docker run -p 8080:8080 docker-python-app
 ```
+---
+
+### Services
+- Flask Web App → Runs on http://127.0.0.1:8080
+- Docker container with Python + Flask
 
 ---
 ### Author
