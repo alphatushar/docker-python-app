@@ -39,6 +39,8 @@ docker run -p 8080:8080 docker-python-app
 ### Services
 - Flask Web App → Runs on http://127.0.0.1:8080
 - Docker container with Python + Flask
+- Flask Web App (same as Project 3)
+- CD Pipeline → GitHub Actions builds and tests the Docker image
 
 ---
 ### Author
